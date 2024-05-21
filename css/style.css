@@ -1,0 +1,78 @@
+body {
+    background-color: #F5D8C5;
+    font-family: Calibri;
+}
+
+h1 {
+    text-align: center;
+    color: #F96B4D;
+}
+
+.parrafo {
+    font-size: 20px;
+    text-align: center;
+}
+
+div.componente-citado {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 60px;
+    border: 5px solid #F96B4D;
+    border-radius: 20px;
+    padding-top: 15px;
+    width: 650px;
+
+    
+}
+
+div.componente-principal {
+    width: 80%;
+    margin: 10px auto 0 auto;
+    padding: 20px 10px;
+}
+
+.logo {
+    height: 90px;
+}
+
+span {
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th {
+    background-color: #F96B4D;
+    color: white;
+    padding: 20px;
+}
+
+td {
+    padding: 10px;
+}
+
+td, th {
+    border: 2px solid #F96B4D;
+}
+
+.destino {
+    width: 110px;
+    height: 70px;
+    border-radius: 15px;
+}
+
+table td.text-center {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+    margin-top: 30px;
+}
